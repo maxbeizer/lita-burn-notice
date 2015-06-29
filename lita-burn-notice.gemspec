@@ -1,6 +1,6 @@
 Gem::Specification.new do |spec|
   spec.name          = "lita-burn-notice"
-  spec.version       = "0.1.0"
+  spec.version       = "0.1.1"
   spec.authors       = ["Max Beizer"]
   spec.email         = ["max.beizer@gmail.com"]
   spec.description   = "Michael Westen voice overs from lita"
